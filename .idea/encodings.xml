@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/pr1_linear_regression/data/diabetes.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pr3_svm/data/iris.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pr5_association_rules/data/supermarket.csv" charset="UTF-8" />
   </component>
 </project>
